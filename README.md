@@ -21,12 +21,13 @@
 
 <h2>Skills</h2>
 <a href="https://github.com/Fjuro?tab=repositories&q=&type=&language=html&sort="><img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'></a>
-<a href="https://github.com/Fjuro?tab=repositories&q=&type=&language=css&sort="><img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'></a>
+<a href="https://github.com/Fjuro?tab=repositories&q=&type=&language=css&sort="><img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'></a><br>
+<p>I'm really bad at both of these :smile:</p>
 
 
 <h2>Visit my website</h2>
 <a href="https://fjuro.github.io">fjuro.github.io</a>
 
 
-<h2>My GitHub Stats</h2>
+<h2>GitHub Stats</h2>
 <img src="https://metrics.lecoq.io/Fjuro?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto"></img>
