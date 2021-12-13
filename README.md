@@ -1,33 +1,16 @@
-<h1>Hello, fellow stranger!</h1>
-<p align='center'>
+# 👋 Hey there, I'm Fjuro!
+I translate things and sometimes work on websites in my free time.
+Make sure to check out my website [here](https://fjuro.github.io)!
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Fjuro.Fjuro)
+## Social Networks
+• **[Discord](https://discord.com/users/512620748708380683)**<br>
+• **[LABY.net](https://laby.net/@Fjuro)**<br>
+• **[Steam](https://steamcommunity.com/id/Fjuro)**
 
-</p>
-<div size='20px'> Hi! My name is Fjuro. I'm another guy trying to learn to code (currently learning HTML).
-</div>
-
-<h2>About Me</h2>
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-- 🔭 I’m currently working on ATEAMS.cz
-
-- 🌱 I’m currently learning HTML and CSS 
-
-- 👯 I’m looking to collaborate on anything translation-related 
-
-- 💬 Talk to me about translating, learning to code 
-
-
-<h2>Skills</h2>
-<a href="https://github.com/Fjuro?tab=repositories&q=&type=&language=html&sort="><img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'></a>
-<a href="https://github.com/Fjuro?tab=repositories&q=&type=&language=css&sort="><img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'></a><br>
-<p>I'm really bad at both of these :smile:</p>
-
-
-<h2>Visit my website</h2>
-<a href="https://fjuro.github.io">fjuro.github.io</a>
-
-
-<h2>GitHub Stats</h2>
-<img src="https://metrics.lecoq.io/Fjuro?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto"></img>
+## Projects I'm working on
+### Translating
+• LabyMod<br>
+• GommeHD.net<br>
+• SponsorBlock<br>
+• NamelessMC<br>
+• LuckPerms
