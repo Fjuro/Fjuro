@@ -1,1 +1,1 @@
-Hey there, I moved my projects to the free/libre [Codeberg](https://codeberg.org/Fjuro).
+You can find my code on [Codeberg](https://codeberg.org/Fjuro).
